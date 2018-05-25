@@ -1,8 +1,12 @@
 # MachineLearning
-A repo with tutorials for algorithms from scratch
+A repo with tutorials for algorithms from scratch + explanation
 
-**01-k-means_from_scratch.ipynb:** Code KMeans clustering from scratch + explanation.
+**00-linear_regression_from_scratch.ipynb:** Linear regression
 
-**02-knn_from_scratch.ipynb:** Code K-Nearest Neighbours from scratch + explanation.
+**01-k-means_from_scratch.ipynb:** KMeans clustering
 
-**03-decision_tree_from_scratch.ipynb:** Code Decision Tree from scratch + stepwise explanation
+**02-knn_from_scratch.ipynb:** K-Nearest Neighbours
+
+**03-decision_tree_from_scratch.ipynb:** Decision Tree for Classification
+
+**04-logistic_regression_from_scratch.ipynb:** Logistic Regression using gradient descent approach
