@@ -10,3 +10,5 @@ A repo with tutorials for algorithms from scratch + explanation
 **03-decision_tree_from_scratch.ipynb:** Decision Tree for Classification
 
 **04-logistic_regression_from_scratch.ipynb:** Logistic Regression using gradient descent approach
+
+**05-Matrix_factorization_and_NN_PyTorch.ipynb:** Matrix Factorization and training a Neural Network on Netflix data in PyTorch 
